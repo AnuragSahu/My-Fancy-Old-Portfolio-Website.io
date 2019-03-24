@@ -1,4 +1,4 @@
-	---
+---
 layout: post
 title: A Small Introduction of the Writer. 
 ---
