@@ -2,7 +2,7 @@
 layout: post
 title: What is Back Propagation? How Can we improve it? 
 ---
-# Efficient Back Propagation
+Introduction to Basic working of Backpropagation, Mean Squared Error, Bias Vs Variance.
 
 ## A Learning Machine
 
