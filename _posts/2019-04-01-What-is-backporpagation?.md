@@ -16,10 +16,3 @@ Introduction to Basic working of Backpropagation, Mean Squared Error, Bias Vs Va
 
 <p> We always dont want to Error to be Zero because then the Machine Looses it's Generality, should always try to maximize the ability of the Network to <i>generalize</i>, That is to predict the correct targets for patterns the learning system has not previously seen before. For Example if we took multiple Samples each of the samples will have different noises, then and we train the Network such that the Cost Fucntion outputs very less error and then the machine even tends to Learn the noise that Particular Dataset on which the dataset have been trained upon. And this totally goes against the sole purpose that is maximizing the generalization of the Machine. There are Generalization Techniques that try to correct for the errors introduced into the networkas a result of our choice of dataset. Both minimizing the error and improvising the generalization of the Machine are important.
 
-### Bias Vs Variance
-
- <p> As Stated previously It is important to both reduce the Output of the Cost Function and also not reduce the so much so the we tend to Over train the network, a stage where the Learning machine Learns the Noise of the Data Set, so It is also important to Increase the Generalization of the Learing Machine.
-
- <p> So there are Two terms <B> BIAS </b> and <b> VARIANCE </b>,
-
- 	Bias is a measure of how much the network output, averaged over all possible data sets differs from the desired function.
